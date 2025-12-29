@@ -37,12 +37,5 @@ An interactive Power BI dashboard was developed to visualize key loan metrics an
 - Customers aged 30–40 represent the highest loan volume
 - 60-month loan term dominates total loan value
 
-## Screenshots
-### Summary Dashboard
-Screenshots/Summary_Page.png
-
-### Overview Dashboard
-Screenshots/Overview_Page.png
-
 ## Conclusion
 This dashboard helps financial institutions monitor loan performance, identify risk areas, and make data-driven lending decisions.
