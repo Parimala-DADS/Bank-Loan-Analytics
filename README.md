@@ -39,10 +39,10 @@ An interactive Power BI dashboard was developed to visualize key loan metrics an
 
 ## Screenshots
 ### Summary Dashboard
-![Summary](Screenshots/Summary_Page.png)
+Screenshots/Summary_Page.png
 
 ### Overview Dashboard
-![Overview](Screenshots/Overview_Page.png)
+Screenshots/Overview_Page.png
 
 ## Conclusion
 This dashboard helps financial institutions monitor loan performance, identify risk areas, and make data-driven lending decisions.
